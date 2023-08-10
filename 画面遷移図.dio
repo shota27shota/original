@@ -1,0 +1,58 @@
+<mxfile host="65bd71144e">
+    <diagram id="7BoPNR5ke72Mvs2DX-Xy" name="ページ1">
+        <mxGraphModel dx="616" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="ログインページ" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="260" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;" parent="1" source="4" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;" parent="1" source="4" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="edgeStyle=none;html=1;" parent="1" source="4" target="14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;html=1;" parent="1" source="4" target="14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=none;html=1;" parent="1" source="4" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="edgeStyle=none;html=1;" parent="1" source="4" target="21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="トレーニング記録ページ" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="250" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="新規登録ページ" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="370" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="ユーザー情報ページ" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="110" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="種目・イス・バー位置登録ページ" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="675" y="250" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="過去トレーニングページ" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="110" width="135" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="伸び率グラフページ" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="667.5" y="370" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="ユーザーメッセージページ" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="485" y="390" width="145" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
